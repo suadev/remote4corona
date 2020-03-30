@@ -13,6 +13,7 @@ Alfabetik sıralamaya göre listelenmiştir
 | --- | :---------------------------------------------------------- | :------- |
 |     | [2025Arena](https://2025arena.com)                         | -       |
 |     | [32 Bit Bilgisayar](http://www.32bit.com.tr)               | -       |
+|     | [90 Pixel](http://www.90pixel.com)                         | -       |
 |     | [Adesso](https://www.adesso.com.tr/)                       | -       |
 |     | [Adphorus](https://adphorus.com)                           | -       |
 |     | [Akinon](https://www.akinon.com)                           | -       |
